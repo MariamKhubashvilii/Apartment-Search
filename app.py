@@ -482,7 +482,6 @@ with tab2:
 
     fig_map.update_layout(
         mapbox=dict(style="carto-positron", center=dict(lat=40.73, lon=-73.95), zoom=11),
-        margin=dict(l=0, r=0, t=0, b=0),
         height=520,
         legend=dict(
             # Place legend BELOW the map inside the figure
