@@ -11,7 +11,7 @@ AptRank lets you score apartments against your actual life — your office, your
 
 ---
 
-![AptRank screenshot](https://raw.githubusercontent.com/MariamKhubashvilii/apartment-ranker-nyc/main/screenshot.png)
+![AptRank screenshot](https://github.com/MariamKhubashvilii/Apartment-Search/main/screenshot.png)
 
 ---
 
